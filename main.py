@@ -32,7 +32,7 @@ def draw():
     elif screen_state == "game":
         draw_game()
         if paused:
-            screen.draw.text("PAUSED", center=(WIDTH//2, HEIGHT//2), fontsize=60, color="red")
+            screen.draw.text("PAUSADO", center=(WIDTH//2, HEIGHT//2), fontsize=60, color="red")
         
         # Score
         screen.draw.text(f"Pontos: {score}", topleft=(10, 10), fontsize=30, color="white")
