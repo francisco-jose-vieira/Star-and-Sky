@@ -51,7 +51,7 @@ git clone https://github.com/francisco-jose-vieira/Teste-Python.git
 #### 📂 Passo 2: Acessar a pasta do projeto e rodar o jogo
 
 ```bash
-cd Teste-Python
+cd Star-and-Sky
 pgzrun main.py
 ```
 
