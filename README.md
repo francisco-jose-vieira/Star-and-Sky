@@ -45,7 +45,7 @@ pip3 install pgzero
 #### 📥 Passo 1: Clonar o repositório
 
 ```bash
-git clone https://github.com/francisco-jose-vieira/Teste-Python.git
+git clone https://github.com/francisco-jose-vieira/Star-and-Sky.git
 ```
 
 #### 📂 Passo 2: Acessar a pasta do projeto e rodar o jogo
